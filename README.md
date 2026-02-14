@@ -26,4 +26,5 @@ Jupyter notebook for python scripts
 
 
 ##Purpose
+
 The objective of this assignment is to demonstrate the use use of project management and version control tools throughout the development process
