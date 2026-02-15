@@ -28,3 +28,12 @@ Jupyter notebook for python scripts
 ##Purpose
 
 The objective of this assignment is to demonstrate the use use of project management and version control tools throughout the development process
+
+##Change Log
+
+Assignment 1_Robot path : simple robot movement heading north while avoiding obstacles
+
+Assignment 1_Robot path directions : added directions to aid robot more effectively i.e. goSouth, goWest, goEast. and also added in "while" loop for robot to evaluates all possible moves from its current
+position, invalid moves are removed, while distance to destination is calculated, shortest distance to goal and update its position
+
+Assignment 1_Robot path The End : just a simple "The End" message
